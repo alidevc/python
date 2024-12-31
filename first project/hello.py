@@ -1,0 +1,2 @@
+greeting = "test";
+print(greeting);
